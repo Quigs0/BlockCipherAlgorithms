@@ -19,7 +19,7 @@ public class Main {
     public static void main(String[] args) throws NoSuchAlgorithmException, NoSuchPaddingException, InvalidKeyException, IllegalBlockSizeException, BadPaddingException, UnsupportedEncodingException, InvalidAlgorithmParameterException
     {
         System.out.println("Block Ciphers: Examined");
-        System.out.println("By: Martin Patel, Meet Patel, and Riley Quigley\n");
+        System.out.println("By: Riley Quigley\n");
 
         while(true)
         {
